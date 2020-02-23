@@ -1,0 +1,326 @@
+
+.hult-logo {
+	float: right;
+	height: 60px;
+}
+
+ #header {
+		color: #a6a6a6;
+		cursor: default;
+		position: relative;
+		text-align: center;
+		z-index: 10001;
+	}
+
+		#header > .logo {
+			margin: 0 0 4rem 0;
+			padding: 0;
+		}
+
+			#header > .logo a {
+				font-size: 5.5rem;
+				font-weight: 700;
+				color: #FFF;
+				text-decoration: none;
+				line-height: 3.5rem;
+			}
+
+			#header > .logo span {
+				font-weight: 300;
+				font-size: 2rem;
+				display: block;
+				color: rgba(255, 255, 255, 0.65);
+			}
+
+
+body {
+	margin: 0px;
+	background-color:#0B3657 ;
+font-family: arial;
+line-height: 1.5;
+font-size: 25px;}
+
+}
+
+
+header{
+	text-align: center;
+}
+
+
+
+
+.topnav{
+	overflow:hidden;
+	background-color: #424949;
+	width: 100%;
+;
+
+}
+
+.topnav a {
+	float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px 20px 15px 20px;
+  text-decoration: none;
+  font-size: 20px;
+  border-right: 1px solid #17202A  ;
+
+}
+
+.topnav a:hover {
+  background-color:#5D6D7E;
+  color: black;
+}
+
+
+@media screen and (max-width: 800px){
+	.topnav{display:all;}
+}
+
+.active {
+    background-color: #AEB6BF;
+    color: white;
+}
+
+
+
+.logo{ font-size:2vw;
+margin: 0;
+line-height: 1.5rem;
+text-align:center; }
+
+
+main {
+	max-width:920px;
+	margin: auto;
+	padding: 2px;
+}
+
+#nogenderpic{
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+   max-width: 100%;
+    margin-right:20px;
+    float:left;
+
+}
+
+
+.drinkgap
+ {  
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+
+.line1 { 
+	border-top: 3px double: #8c8b8b;
+	max-width: 700px;
+	margin-top: 0px;
+
+}
+
+
+
+
+p {
+	color:white;
+	font-size:1.2vw
+}
+
+ 
+.blog{ 
+
+	width: 1000px;
+    padding: 0px;
+    margin: 20px;
+    text-align: left;
+    color:white;
+    font-family: arial;
+    font-size: 21px;
+}
+ 
+ .blogpara {
+ 	color:white;
+ 	font-size:1.5vw;
+ 	text-align: justify;
+
+ }
+
+.order {
+	color:#F1948A;
+	font-size: 25px;
+}
+
+ 
+#introp{
+	padding: 5px 10px 5px 10px;
+	margin:2px;
+	font-size:1.7vw;
+}
+                   
+#strong {
+	color: #F0B27A  ;
+	font-weight: bold;
+}
+#lift {
+	color: #AF7AC5;
+	font-weight: bold;
+}
+#love {
+	color: #7DCEA0 ;
+	font-weight: bold;
+}
+#brave {
+	color: #F1948A;
+	font-weight: bold;
+}
+#will {
+	color: #7FB3D5;
+	font-weight: bold;
+}
+
+.amy { 
+	text-align: right;
+	color:white;
+
+	;
+
+}
+
+.h2 {
+	font-weight: bold;
+	font-size: 45px;
+	text-align: center;
+	color:white;
+	line-height: 0.1rem;
+}
+
+
+.h22{
+	border-bottom: : 5xp solid black;
+	font-size:1.5vw;
+	text-align: left;
+	color:#F1948A;
+	font-style: italic;
+	font-style: bold;
+
+}
+
+.references {
+	font-size:25px;
+}
+
+.blogh2{
+	padding: 0px;
+	font-size: 35px;
+	text-align: left;
+	color:white;
+	font-style: bold;
+	line-height: 1.2rem;
+
+}
+
+.byarseniy{
+	text-align: left;
+	color:white;
+	font-size: 20px;
+	margin: 0 0 4rem 0;
+			padding: 0;
+			opacity: 0.4;
+			line-height: 1.5rem;
+
+}
+
+.arseniyblogpic {
+border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    float:center;
+line-height: 0.2rem;
+   margin-top: 0px;
+max-width: 100%;
+}
+
+
+.us { width: 920px;
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+    color:white;
+    font-family: arial;
+    font-size: 1.2vw;
+}
+
+
+.titleevents {
+	padding: 0px;
+	font-size:1.6vw;
+	text-align: center;
+	color:white;
+	font-style: bold;
+	line-height: 2.2rem;
+}
+
+.joinusfb { text-align: left;
+	color:white;
+	font-size:1.5vw;
+	margin: 0 0 4rem 0;
+			padding: 0;
+			opacity: 0.8;
+			line-height: 1.5rem;
+
+
+}
+
+.linkfb {
+	color:#F1948A;
+}
+
+
+
+
+
+.fa {
+  padding: 15px;
+  font-size: 30px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 25%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+@media screen and (max-width:800px) {
+  .left, .main, .right {
+    width:100%; }
+    
+}
+
+
+
+
+
